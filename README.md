@@ -2,9 +2,11 @@
 - Computer vision and Signal processing
 
 ### Interest 
-- CNN based models
-- Multiple instance learning
+- CNN-based Models
+- Multiple Instance Learning
 - Attention
+- Graph Neural Network
+- Reinforcement Learning
 
 <!--
 **bch0322/bch0322** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
