@@ -3,6 +3,7 @@
 
 ### Interest 
 - CNN-based Models
+- Weakly supervised object localization
 - Multiple Instance Learning
 - Attention
 - Graph Neural Network
