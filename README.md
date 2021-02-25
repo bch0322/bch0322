@@ -6,8 +6,9 @@
 - Weakly Supervised Object Localization
 - Multiple Instance Learning
 - Attention
-- Graph Neural Network
+- Self-Attention (Transformer)
 - Reinforcement Learning
+- Graph Neural Network
 
 <!--
 **bch0322/bch0322** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
