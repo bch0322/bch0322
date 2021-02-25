@@ -1,4 +1,10 @@
-### Hi there 👋
+### Machine Learning Engineer 👋
+- Computer vision and Signal processing
+
+### Interest 
+- CNN based models
+- Multiple instance learning
+- Attention
 
 <!--
 **bch0322/bch0322** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
