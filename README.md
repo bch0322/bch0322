@@ -1,5 +1,5 @@
 ### Machine Learning Engineer 👋
-- Computer vision and Signal processing
+- Computer vision & Signal processing
 
 ### Interest 
 - CNN-based Models
